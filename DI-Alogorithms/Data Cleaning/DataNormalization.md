@@ -1,0 +1,3 @@
+Data Normalization: Scale the values of a column to a specific range, such as 0 to 1 or -1 to 1. This is often done to standardize the values in a column, so that they can be compared or processed more easily.
+
+This example uses the pandas library in Python to load a CSV file into a DataFrame, normalize the values in a column to the range 0 to 1, and then save the normalized data back to a CSV file.

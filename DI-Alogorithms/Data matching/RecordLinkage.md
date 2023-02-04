@@ -1,0 +1,2 @@
+A record linkage algorithm is used to link records that correspond to the same entity from two different data sets. The algorithm considers various parameters like the name, address, date of birth, etc. to determine the matches.
+Here is an example in Python using the RecordLinkage library:

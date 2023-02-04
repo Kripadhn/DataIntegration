@@ -1,0 +1,3 @@
+Fuzzy Integration: An approach to data fusion that uses fuzzy logic to combine information from multiple sources.
+
+This code uses the numpy and skfuzzy libraries to define the input variables and the membership functions, perform the fuzzy integration and get the crisp value through defuzzification. The input variables x and y are defined with range from 0 to 10 with a step of 1. The membership functions for x and y are defined using the fuzz.trimf function which creates a triangular membership function. The fuzzy integration is performed using the np.fmin function, which calculates the minimum of two input variables. Finally, the crisp result is obtained through defuzzification by taking the mean of x values where the fuzzy result is maximum.

@@ -1,0 +1,2 @@
+Impute Algorithm: An impute algorithm is used to fill in missing values in a data set.
+Here is an example in Python using the Scikit-learn library:

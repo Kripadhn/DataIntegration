@@ -1,0 +1,1 @@
+Data Enrichment Algorithms refer to the process of adding additional information to data sets to make them more useful and informative. There are many ways to enrich data, and the specific method will depend on the type of data and the desired outcome. Here is an example of data enrichment using Python:

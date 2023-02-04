@@ -1,0 +1,1 @@
+Singular Value Decomposition (SVD): SVD is a mathematical technique used for reducing the dimensionality of data.
